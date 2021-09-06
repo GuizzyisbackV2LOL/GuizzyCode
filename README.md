@@ -2,6 +2,8 @@
 Wsp there is were are codes are for roblox !(;
 this is are discord https://discord.gg/Wxu83UyV
 
+New Code DahoodBan code for trolling loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Dahoodban/main/BanCode"))()
+
 This is the GuizzyGui loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyGui1.1/main/GuizzyGuiDahood"))()
 
 This is the GuizzyCoolAim help loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyAiml0ck/main/GuizzyV2aim"))()

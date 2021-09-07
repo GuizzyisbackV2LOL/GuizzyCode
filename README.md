@@ -1,18 +1,3 @@
-# GuizzyCode
-Wsp there is were are codes are for roblox !(;
-this is are discord https://discord.gg/Wxu83UyV
+Join are discord https://discord.gg/c8Brg2PM
 
-New Code DahoodBan code for trolling loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Dahoodban/main/BanCode"))()
-
-This is the GuizzyGui loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyGui1.1/main/GuizzyGuiDahood"))()
-
-This is the GuizzyCoolAim help loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyAiml0ck/main/GuizzyV2aim"))()
-
-This is the Korblox code for Da hood (; loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyKorbloxV3/main/korbloxCode"))()
-
-animation walks  loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyDahoodAN/main/GuizzyAnPackALL"))()
-
-This is loadstring(game:HttpGet(('https://pastebin.com/raw/
-vdP5We3G'),true))() the lag code boombox made by swag mode.The rest of the codes made by me.
-
-And thats all it for rn i will update later Guys 
+Change the link to are Codes (; https://0bin.net/paste/zS1+BQST#4L0lZ+tKtKHU9vkem+li4sOCc50cdLkPAklqcIb1svg 
